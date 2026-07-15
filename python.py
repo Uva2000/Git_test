@@ -1,0 +1,4 @@
+print("Addition", 5 + 3)
+print("Subtraction", 10 - 4)
+print("Multiplication", 6 * 7)
+print("Division", 20 / 5)
