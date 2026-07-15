@@ -1,1 +1,1 @@
-print("Modulus", 10 % 4)
+print("Modulus", 10 % 7)
